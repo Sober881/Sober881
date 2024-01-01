@@ -10,5 +10,5 @@
 
 ## Links
 <p align="left">
-<a href="https://discord.gg/JjCthsg6tj" target="_blank"><img height="40" width="75" src="https://github.com/Sober881/Sober881/assets/90927749/c7613193-7203-41eb-85d7-6c8b3f4715bc"/></a>
+<a href="https://discord.gg/JjCthsg6tj" target="_blank"><img height="40" width="75" title="TAC | Discord Group" src="https://github.com/Sober881/Sober881/assets/90927749/c7613193-7203-41eb-85d7-6c8b3f4715bc"/></a>
 </p>
