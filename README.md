@@ -6,8 +6,4 @@
   <a href="https://github.com/sober881"><img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=sober881&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
-<p align="left">
-<a href="https://discord.gg/JjCthsg6tj" target="blank"><img align="center" src="https://github.com/Sober881/Sober881/assets/90927749/053f84f1-63ff-44e6-8368-c04ab8ee098c" alt="discord" height="30" width="40" /></a>
-</p>
-
 [![Discord Presence](https://lanyard.cnrad.de/api/830124538745585705)](https://discord.com/users/830124538745585705)
